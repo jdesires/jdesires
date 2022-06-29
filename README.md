@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdesires
-- 👀 I’m interested in building bots
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning python and C. I've recently finished my first semester as a CST major.
 - 💞️ I’m looking for someone that can teach me the ways and can help me learn.
 - 📫 How to reach me twitter: @donniedesires. discord: JD#7943
 
